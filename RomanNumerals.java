@@ -1,6 +1,6 @@
 
 /**
- * Program that displays a number from 1-10 as a roman numeral
+ * Program that displays a number from 1-3 as a roman numeral, and gives an error when there is a number greater than 3 or less than 0
  *
  * @author Kamil Ahsank ahsan@student.sdccd.edu
  * @since 2/16/2026
